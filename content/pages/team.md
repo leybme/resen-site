@@ -3,7 +3,7 @@ type: PageLayout
 title: Team
 sections:
   - type: MediaGallerySection
-    title: Gallery
+    title: Our team
     subtitle: This is the subtitle
     images:
       - type: ImageBlock
