@@ -1,6 +1,6 @@
 ---
 type: PostLayout
-title: 'Why We Need ResSen: A Smarter Way to Track Respiratory Health'
+title: 'Why We Need ReSen: A Smarter Way to Track Respiratory Health'
 colors: colors-a
 date: '2024-05-02'
 author: content/data/team/doris-soto.json
@@ -110,19 +110,16 @@ Respiratory diseases like **asthma, COPD, and viral infections** are rising glob
 📍 **No Geospatial Insights** – Respiratory disease **clusters go unnoticed** until outbreaks occur.
 🌡️ **Environmental Factors Are Ignored** – Air pollution, humidity, and temperature **directly impact respiratory health** but are rarely factored into daily monitoring.
 
-✅ **The Solution: ResSen**
-ResSen transforms disposable **PEF meters into smart, connected tools**, allowing:
+✅ **The Solution: ReSen**
+ReSen transforms disposable **PEF meters into smart, connected tools**, allowing:
 🔹 **Real-time respiratory data collection** via Bluetooth/NFC 📲
 🔹 **AI-powered insights** for early disease detection 🤖
 🔹 **Geospatial tracking** of respiratory health using Galileo & Copernicus satellites 🛰️
 🔹 **Environmental risk assessments** for proactive health decisions 🌍
 
 **💡 The Future of Respiratory Health is Here**
-With ResSen, patients, doctors, and public health officials can make **data-driven decisions** to **prevent severe respiratory episodes** and **control outbreaks before they spread**.
+With ReSen, patients, doctors, and public health officials can make **data-driven decisions** to **prevent severe respiratory episodes** and **control outbreaks before they spread**.
 
 🚀 **Join the revolution in respiratory health!** Let’s make breathing easier for everyone.
 
 \#ResSen #RespiratoryHealth #DigitalHealth #AI #PEFMonitoring #AirQuality #Asthma #COPD
-
-
-

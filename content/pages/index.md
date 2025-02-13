@@ -15,7 +15,7 @@ sections:
     backgroundSize: full
     title: RESEN
     subtitle: >-
-      ResSen (Respiratory Sentinel) is a cutting-edge digital health tool
+      ReSen (Respiratory Sentinel) is a cutting-edge digital health tool
       designed to revolutionize respiratory disease monitoring and public health
       response.
     styles:
@@ -47,7 +47,7 @@ sections:
     actions: []
   - type: MediaGallerySection
     title: Mobile App
-    subtitle: 'ResSen: Breathe Better, Live Smarter'
+    subtitle: 'ReSen: Breathe Better, Live Smarter'
     images:
       - type: ImageBlock
         url: /images/1000000547.jpg
