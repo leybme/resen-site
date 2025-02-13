@@ -13,7 +13,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: ReSEN
+    title: RESEN
     subtitle: Respiratory Sentinel
     styles:
       self:
