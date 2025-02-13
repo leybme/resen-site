@@ -47,7 +47,7 @@ sections:
     actions: []
   - type: MediaGallerySection
     title: Mobile App
-    subtitle: This is the subtitle
+    subtitle: available for Android
     images:
       - type: ImageBlock
         url: /images/1000000547.jpg
