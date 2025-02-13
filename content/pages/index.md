@@ -62,7 +62,7 @@ sections:
       - type: ImageBlock
         url: /images/1000000549.jpg
         altText: Resen App
-        caption: Caption of the image
+        caption: Resen App
         elementId: ''
     colors: colors-f
     spacing: 16
