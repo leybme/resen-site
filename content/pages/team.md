@@ -25,7 +25,7 @@ sections:
     spacing: 16
     columns: 3
     aspectRatio: '3:4'
-    showCaption: false
+    showCaption: true
     enableHover: true
     elementId: ''
     styles:
