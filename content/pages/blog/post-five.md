@@ -4,7 +4,7 @@ title: 'Why We Need ResSen: A Smarter Way to Track Respiratory Health'
 colors: colors-a
 date: '2024-05-02'
 author: content/data/team/doris-soto.json
-excerpt: ''
+excerpt: "Respiratory diseases like asthma, COPD, and viral infections are rising globally, yet traditional monitoring methods are slow, disconnected, and reactive. \U0001F32B️\U0001F4A8"
 featuredImage:
   type: ImageBlock
   url: /images/featured-Image5.jpg
