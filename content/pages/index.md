@@ -14,7 +14,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: ReSEN
-    subtitle: Respiratory Sentinel-
+    subtitle: Respiratory Sentinel
     styles:
       self:
         height: auto
