@@ -8,7 +8,7 @@ sections:
     images:
       - type: ImageBlock
         url: /images/279661939_10221102509933221_5164271451735753505_n.jpg
-        altText: Image one
+        altText: Prateek Singh
         caption: Image one caption
         elementId: ''
       - type: ImageBlock
