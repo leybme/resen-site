@@ -45,44 +45,46 @@ sections:
         justifyContent: flex-start
     type: HeroSection
     actions: []
-  - colors: colors-f
-    type: FeaturedProjectsSection
+  - type: MediaGallerySection
+    title: Mobile App
+    subtitle: 'ResSen: Breathe Better, Live Smarter'
+    images:
+      - type: ImageBlock
+        url: /images/1000000547.jpg
+        altText: Resen App
+        caption: Resen App
+        elementId: ''
+      - type: ImageBlock
+        url: /images/1000000548.jpg
+        altText: Resen App
+        caption: Resen App
+        elementId: ''
+      - type: ImageBlock
+        url: /images/1000000549.jpg
+        altText: Resen App
+        caption: Resen App
+        elementId: ''
+    colors: colors-f
+    spacing: 16
+    columns: 3
+    aspectRatio: auto
+    showCaption: false
+    enableHover: false
     elementId: ''
-    actions:
-      - type: Link
-        label: See all projects
-        url: /projects
-    showDate: false
-    showDescription: true
-    showFeaturedImage: true
-    showReadMoreLink: true
-    variant: variant-b
-    projects:
-      - content/pages/projects/project-two.md
-      - content/pages/projects/project-three.md
-      - content/pages/projects/project-one.md
     styles:
       self:
         height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
+        width: full
         padding:
-          - pt-24
-          - pb-24
+          - pt-12
+          - pb-12
           - pl-4
           - pr-4
         justifyContent: center
       title:
-        textAlign: left
+        textAlign: center
       subtitle:
-        textAlign: left
-      actions:
-        justifyContent: flex-end
-    subtitle: Projects
+        textAlign: center
   - type: FeaturedPostsSection
     elementId: ''
     colors: colors-f
@@ -94,9 +96,7 @@ sections:
         label: See all posts
         url: /blog
     posts:
-      - content/pages/blog/post-six.md
-      - content/pages/blog/post-four.md
-      - content/pages/blog/post-three.md
+      - content/pages/blog/post-five.md
     showDate: true
     showExcerpt: true
     showReadMoreLink: true
