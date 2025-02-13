@@ -7,7 +7,7 @@ sections:
     subtitle: 'Innovating Health, Empowering Lives'
     images:
       - type: ImageBlock
-        url: /images/gallery-1.jpg
+        url: /images/279661939_10221102509933221_5164271451735753505_n.jpg
         altText: Image one
         caption: Image one caption
         elementId: ''
