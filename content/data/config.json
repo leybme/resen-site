@@ -16,7 +16,7 @@
             {
                 "type": "Link",
                 "label": "Team",
-                "url": "/projects"
+                "url": "/teams"
             },
             {
                 "type": "Link",
