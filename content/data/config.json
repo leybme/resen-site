@@ -32,14 +32,14 @@
             },
             {
                 "type": "Link",
-                "label": "Contact",
-                "url": "mailto:prateek.nitdgp@gmail.com",
+                "label": "Team",
+                "url": "/team",
                 "altText": ""
             },
             {
                 "type": "Link",
-                "label": "Team",
-                "url": "/team",
+                "label": "Contact",
+                "url": "mailto:prateek.nitdgp@gmail.com",
                 "altText": ""
             }
         ],
