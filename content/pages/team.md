@@ -4,7 +4,7 @@ title: Team
 sections:
   - type: MediaGallerySection
     title: Our team
-    subtitle: This is the subtitle
+    subtitle: 'Innovating Health, Empowering Lives'
     images:
       - type: ImageBlock
         url: /images/gallery-1.jpg
