@@ -12,11 +12,6 @@
                 "type": "Link",
                 "label": "Team",
                 "url": "/teams"
-            },
-            {
-                "type": "Link",
-                "label": "Blog",
-                "url": "/blog"
             }
         ],
         "socialLinks": [],
