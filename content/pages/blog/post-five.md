@@ -1,6 +1,6 @@
 ---
 type: PostLayout
-title: 'Why We Need ResSen: A Smarter Way to Track Respiratory Health'
+title: 'Why We Need ReSen: A Smarter Way to Track Respiratory Health'
 colors: colors-a
 date: '2024-05-02'
 author: content/data/team/doris-soto.json
