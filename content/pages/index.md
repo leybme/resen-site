@@ -46,7 +46,7 @@ sections:
     type: HeroSection
     actions: []
   - type: MediaGallerySection
-    title: Gallery
+    title: Mobile App
     subtitle: This is the subtitle
     images:
       - type: ImageBlock
