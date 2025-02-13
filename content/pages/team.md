@@ -22,7 +22,7 @@ sections:
         caption: Le Y Nguyen
         elementId: ''
     colors: colors-f
-    spacing: 33
+    spacing: 56
     columns: 3
     aspectRatio: '3:4'
     showCaption: true
