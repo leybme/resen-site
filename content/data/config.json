@@ -38,7 +38,7 @@
             },
             {
                 "type": "Link",
-                "label": "Blog",
+                "label": "Team",
                 "url": "/blog",
                 "altText": ""
             }
