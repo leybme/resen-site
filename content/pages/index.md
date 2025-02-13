@@ -50,11 +50,6 @@ sections:
     subtitle: This is the subtitle
     images:
       - type: ImageBlock
-        url: /images/gallery-4.jpg
-        altText: Image four
-        caption: Image four caption
-        elementId: ''
-      - type: ImageBlock
         url: >-
           https://assets.stackbit.com/components/images/default/default-image.png
         altText: altText of the image
