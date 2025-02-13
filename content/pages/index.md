@@ -47,7 +47,7 @@ sections:
     actions: []
   - type: MediaGallerySection
     title: Mobile App
-    subtitle: 'ReSen mobile '
+    subtitle: 'ResSen: Breathe Better, Live Smarter'
     images:
       - type: ImageBlock
         url: /images/1000000547.jpg
