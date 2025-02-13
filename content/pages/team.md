@@ -18,7 +18,7 @@ sections:
         elementId: ''
       - type: ImageBlock
         url: /images/1679156222525.jpeg
-        altText: Image three
+        altText: Le Y Nguyen
         caption: Image three caption
         elementId: ''
     colors: colors-f
