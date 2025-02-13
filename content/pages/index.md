@@ -47,7 +47,7 @@ sections:
     actions: []
   - type: MediaGallerySection
     title: Mobile App
-    subtitle: available for Android
+    subtitle: 'ReSen mobile '
     images:
       - type: ImageBlock
         url: /images/1000000547.jpg
