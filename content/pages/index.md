@@ -52,7 +52,7 @@ sections:
       - type: ImageBlock
         url: /images/1000000547.jpg
         altText: Resen App
-        caption: Caption of the image
+        caption: Resen App
         elementId: ''
       - type: ImageBlock
         url: /images/1000000548.jpg
