@@ -11,7 +11,7 @@
             {
                 "type": "Link",
                 "label": "Team",
-                "url": "/teams"
+                "url": "/team"
             }
         ],
         "socialLinks": [],
