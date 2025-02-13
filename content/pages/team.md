@@ -13,7 +13,7 @@ sections:
         elementId: ''
       - type: ImageBlock
         url: /images/1588091921450.jpeg
-        altText: Image two
+        altText: Hoang Tuan Nguyen
         caption: Image two caption
         elementId: ''
       - type: ImageBlock
