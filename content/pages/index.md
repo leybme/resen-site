@@ -14,7 +14,10 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: RESEN
-    subtitle: Respiratory Sentinel
+    subtitle: >-
+      ResSen (Respiratory Sentinel) is a cutting-edge digital health tool
+      designed to revolutionize respiratory disease monitoring and public health
+      response.
     styles:
       self:
         height: auto
